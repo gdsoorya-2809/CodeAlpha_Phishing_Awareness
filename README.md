@@ -1,6 +1,6 @@
 Phishing Awareness
 
-CodeAlpha Cyber Security Internship - Task 2
+CodeAlpha Cyber Security Internship - Task 2 
 
 Project Overview
 
